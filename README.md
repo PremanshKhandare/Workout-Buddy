@@ -1,1 +1,1 @@
-# Workout-Buddy
+# Workout_Buddy
